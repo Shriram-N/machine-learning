@@ -1,0 +1,80 @@
+data visualization -32 vid=no
+pandas-16=yes
+scikit-28=yes
+basic python -68=yes
+intermediate -25=yes
+
+(these things will 2.5 days)
+total -175 vid(17.5 hrs per day)
+
+=================
+(next week)
+scraping -4=yes
+robotics-20=yes
+git basics-2
+m.l-72=no
+(these will take a day)
+
+tuesday-friday
+algo in python-4 days(geeksforgeeks)
+in the meanwhile learn front end developement for 3 hrs a day
+saturday and sunday(finish front end development for one ROR project and include shiva to do it and you learn git basics too)
+>>would be colloborate with shiva friend 
+for a passive income to figure out a deal and the number of hours
+you are willing to put in
+>> 1 hour for the best book project to upload the remaining pics
+
+=================
+(april 1st week)
+>to take some freelancing projects on face recognition and raspberry pi and try to work on them for 4 hrs a day
+>to start the ecommerce project-4hrs a day
+>ruby on rails create website for other projects and document
+the process(2 hrs)
+>learning frontend development -2hrs
+
+====================
+(april 2nd week)
+>>to take some freelancing projects on face recognition and raspberry pi and try to work on them for 4 hrs a day
+>>computer vision+opencv (approx a week)(daily 6 hours)
+hardware-camera,motor
+>>should complete the RoR project for viral marketing
+>>would talk to that mumbai guy or skylark drones and to work with there for sometime and try to figure out the solution for them.
+(ideally mumbai guy and learn from him possibly)
+
+=================
+(april 3rd week)
+>>to take some freelancing projects on face recognition and raspberry pi and try to work on them for 6 hrs a day and also 
+on python scraping and ML stuff (freely or paid)
+>should concentrate completely on D.S
+
+===================
+(april 4th week)
+>>to take some freelancing projects on face recognition and raspberry pi and try to work on them for 6 hrs a day and also 
+on python scraping and ML stuff (freely or paid)
+>>learning the basics of OS and networking and parallel programming /distributed computing
+>>reflection and completing the unfinished apps
+
+#future learning#
+ --------------
+django expertise
+angularjs
+javascript
+cordova
+(all the above will take another week)
+
+==================
+parallel programming(opencl)
+
+better strategy 
+>>would be colloborate with shiva friend 
+for a passive income to figure out a deal and the number of hours
+you are willing to put in
+
+>>would be to start trying and doing freelancing projects and invest daily one hour into the website on side.
+
+>>would talk to that mumbai guy or skylark drones and to work theres
+for sometime and try to figure out the solution for them.
+
+>>to start the work for ecommerce project
+=================================
+
